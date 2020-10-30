@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 110.0161f;
+		viewpositionx = -1493.169f;
 		defaulttoptexture = "DOORRED";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -33,20 +33,20 @@ maps
 			gridrotate = 0f;
 			backscalex = 100;
 			gridoriginx = 0f;
-			gridsize = 128f;
+			gridsize = 32f;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORRED";
 		defaultfloortexture = "FLAT10";
-		viewpositiony = 312.7616f;
+		viewpositiony = -887.6563f;
 		defaultwalltexture = "DOORRED";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.2600581f;
+		viewscale = 0.9655774f;
 		
 		plugins
 		{
@@ -75,7 +75,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 226;
+				caretposition = 1443;
+				firstvisibleline = 19;
 				activetab = true;
 			}
 		}
