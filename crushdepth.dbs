@@ -40,7 +40,7 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORRED";
 		defaultfloortexture = "FLAT10";
-		viewpositiony = -712f;
+		viewpositiony = -712.0001f;
 		defaultwalltexture = "DOORRED";
 		overridetoptexture = false;
 		customceilheight = 128;
@@ -75,8 +75,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 3103;
-				firstvisibleline = 72;
+				caretposition = 2502;
+				firstvisibleline = 51;
 				activetab = true;
 			}
 		}
